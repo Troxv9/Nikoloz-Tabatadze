@@ -1,1 +1,1 @@
-# Nikoloz-Tabatadze
+The provided code is a web scraping script that retrieves product information from multiple pages on Amazon and saves it to a CSV file. It utilizes the requests library to send HTTP requests to the Amazon website and the BeautifulSoup library to parse the HTML content of the response
